@@ -8,7 +8,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="10">
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
