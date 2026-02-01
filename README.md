@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-div align="center">
+<div align="center">
 
 <p>
   <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
